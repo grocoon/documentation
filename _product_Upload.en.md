@@ -12,7 +12,7 @@ Below is a step-by-step guide on how to upload your product data on Grocoon.
 Download the XLS template, open it and save it under a different name as an XLS or CSV file.
 
 
-![](<%= image_path('support/csvfile.png') %>)
+![](support/csvfile.png)
 
 One row describes and characterizes a product variant/ SKU.
 
@@ -30,7 +30,7 @@ Save it, if you have inserted all product data.
 #### 3\. Upload Product Data
 Then go to Grocoon -&gt; Products -&gt; Update Product Data. Here insert your saved product file, and then click "Continue". The products are now uploaded. The products will be published on the platform only after your approval.
 
-![](<%= image_path('support/uploadproducts.png') %>)
+![](support/uploadproducts.png)
 
 If you come across any problems during the product upload process, please send us a short email. We would be happy to assist you.
 
@@ -180,7 +180,7 @@ Please note that ***only .jpg and .png file formats*** are acceptable. If you do
 
 Below is an example of how the product display on Grocoon looks like:
 
-![](<%= image_path('support/productimage.png') %>)
+![](support/productimage.png)
 
 #### Column N - Stock
 
@@ -221,4 +221,4 @@ Here you have the opportunity to add more features to the product.
 
 2.  Insert your images through Drag & Drop.
 
-![](<%= image_path('support/imageupload.png') %>)
+![](support/imageupload.png)
