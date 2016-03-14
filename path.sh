@@ -17,9 +17,6 @@ if [ -z "$files" ]; then
     echo "Modified: " $file
   done
 
-
-
-
 else
   echo "Deleting image_path"
   for file in $files
