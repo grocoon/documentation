@@ -5,11 +5,11 @@ bash ./path.sh
 
 projectpath=$1
 
-cp -rf ./support $projectpath/app/assets/images/support
+cp -rf ./support $projectpath/app/assets/images
 
-for file in `ls *.md`
+for file in `ls _*.md`
 do
-  cp -f $file $projectpathapp/views/support
+  cp -f $file $projectpath/app/views/support
 
   echo "Copied: " $file
 done
